@@ -83,7 +83,9 @@
 - [ ] Write a function to check if a given triplet is a Pythagorean triplet or not.
 - [ ] Write a function that returns all prime numbers between two given numbers.
 - [ ] Write a function that returns the sum of the first n natural numbers.
-      
+
+
+# Arrays      
 # Easy
 - [ ] Build Array from Permutation
 - [ ] Concatenation of Array
